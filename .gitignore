@@ -60,5 +60,6 @@ crashlytics-build.properties
 
 # Additions by Rito
 *.cmd
+*.cmd.meta
 /[Aa]ssets/Asset Store/
 /[Aa]ssets/_*
