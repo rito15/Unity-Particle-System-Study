@@ -57,3 +57,15 @@
 <img src="https://user-images.githubusercontent.com/42164422/111450315-9c584d00-8753-11eb-8ce6-2dfb8dd791f5.gif" width = "80%">
 
 <br>
+
+## [9]
+
+<img src="https://user-images.githubusercontent.com/42164422/112008554-ef257080-8b68-11eb-994e-d16639868103.gif" width = "80%">
+
+<br>
+
+## [10]
+
+<img src="https://user-images.githubusercontent.com/42164422/112008564-f0ef3400-8b68-11eb-9bb9-8239bb7a9fa6.gif" width = "80%">
+
+<br>
