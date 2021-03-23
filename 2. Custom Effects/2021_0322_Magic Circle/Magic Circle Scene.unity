@@ -273,7 +273,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 134434058}
   serializedVersion: 6
-  lengthInSec: 8.5
+  lengthInSec: 9
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -4974,8 +4974,8 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10308, guid: 0000000000000000f000000000000000, type: 0}
-  - {fileID: 2100000, guid: b57765916d7029f4ea0e118d886772d8, type: 2}
+  - {fileID: 2100000, guid: deff922905b3271429a92ed146a7ada6, type: 2}
+  - {fileID: 2100000, guid: deff922905b3271429a92ed146a7ada6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5027,7 +5027,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 576459376}
   serializedVersion: 6
-  lengthInSec: 5
+  lengthInSec: 6
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -9781,7 +9781,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 632292896}
   serializedVersion: 6
-  lengthInSec: 8.5
+  lengthInSec: 9
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -14610,7 +14610,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 9.5
+      scalar: 10
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -15470,7 +15470,7 @@ ParticleSystem:
       countCurve:
         serializedVersion: 2
         minMaxState: 0
-        scalar: 1
+        scalar: 2
         minScalar: 30
         maxCurve:
           serializedVersion: 2
@@ -15520,7 +15520,7 @@ ParticleSystem:
           m_PreInfinity: 2
           m_PostInfinity: 2
           m_RotationOrder: 4
-      cycleCount: 4
+      cycleCount: 1
       repeatInterval: 0.01
       probability: 1
   SizeModule:
@@ -19255,7 +19255,7 @@ GameObject:
   - component: {fileID: 796954112}
   - component: {fileID: 796954111}
   m_Layer: 0
-  m_Name: Sparkles
+  m_Name: Burn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
